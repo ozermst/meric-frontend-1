@@ -21,7 +21,7 @@ const Home: NextPage = () => {
           <div className="container h-max">
             <h1 className="text-white">Meriç Temur</h1>
             <h3 className="text-white">
-              I'm a passionate
+              I'm a passionate{" "}
               <span className="underline decoration-teal-400 decoration-2 underline-offset-8">
                 athlete
               </span>{" "}
